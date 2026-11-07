@@ -62,6 +62,7 @@
   // limit Intellisense help in the terminal
   "terminal.integrated.initialHint": false,
   "cSpell.words": [
+    "enhancemet",
     "Tinotenda"
   ]
 }
